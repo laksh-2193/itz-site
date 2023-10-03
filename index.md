@@ -79,10 +79,26 @@ A third-year BTech in Life Sciences, trying to figure out what I want to do whil
 
 ## Blog 📝
 
-| Blog Post 1: [Title](insert_blog_url_here) | Blog Post 2: [Title](insert_blog_url_here) | Blog Post 3: [Title](insert_blog_url_here) | Blog Post 4: [Title](insert_blog_url_here) |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![Image](insert_image_url_here)            | ![Image](insert_image_url_here)            | ![Image](insert_image_url_here)            | ![Image](insert_image_url_here)            |
-| Description of the blog post goes here.    | Description of the blog post goes here.    | Description of the blog post goes here.    | Description of the blog post goes here.    |
+| Blog Post 1: [Title](insert_blog_url_here) |
+| ----------------------------------------- |
+| ![Image](insert_image_url_here)            |
+| Description of the blog post goes here.    |
+
+| Blog Post 2: [Title](insert_blog_url_here) |
+| ----------------------------------------- |
+| ![Image](insert_image_url_here)            |
+| Description of the blog post goes here.    |
+
+| Blog Post 3: [Title](insert_blog_url_here) |
+| ----------------------------------------- |
+| ![Image](insert_image_url_here)            |
+| Description of the blog post goes here.    |
+
+| Blog Post 4: [Title](insert_blog_url_here) |
+| ----------------------------------------- |
+| ![Image](insert_image_url_here)            |
+| Description of the blog post goes here.    |
+
 
 ---
 
