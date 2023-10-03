@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
+title: Diya Hafiz
+description: B.Tech in Life Sciences | Bioinformatics & Data Science Enthusiast | Committed to Lifelong Learning | Nonprofit Leader (Will refine it, i made it jaldi jaldi)
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
