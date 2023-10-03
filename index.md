@@ -1,7 +1,3 @@
-# Diya Hafiz
-B.Tech in Life Sciences | Bioinformatics & Data Science Enthusiast | Committed to Lifelong Learning | Nonprofit Leader
-(Will refine it, i made it jaldi jaldi)
-
 ## About Me 💡
 A third-year BTech in Life Sciences, trying to figure out what I want to do while loving trying and learning new skills and subjects. Passionate about spreading compassion and kindness in the world through heading the charter for compassion chapter at Atria University. Hardworking and motivated individual who believes in smart work and discipline. Interested in working on projects with peers and mentors passionate about Life Sciences.
 
