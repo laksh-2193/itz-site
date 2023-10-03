@@ -17,7 +17,7 @@ function hideEverything() {
 
 
 function movetopage(){
-  window.location="gift.png";
+  window.location="gift.jpg";
 
 }
 
