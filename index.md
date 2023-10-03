@@ -62,15 +62,13 @@ A third-year BTech in Life Sciences, trying to figure out what I want to do whil
 - Cooking
 
 ## Experiments & Projects 🔬
-| Project 2: [Project Title](insert_project_url_here) | 
-| --------------------------------------------------  |  
-| - Description of the project goes here.             |            
+         
 
-| Project 2: [Project Title](insert_project_url_here) |
+| Project 1: [Project Title](insert_project_url_here) |
 | --------------------------------------------------  |
 | - Description of the project goes here.             |
 
-| Project 3: [Project Title](insert_project_url_here) |
+| Project 2: [Project Title](insert_project_url_here) |
 | --------------------------------------------------- |
 | - Description of the project goes here.             |
 
